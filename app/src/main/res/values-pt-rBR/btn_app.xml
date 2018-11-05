@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_name_product">Produto</string>
+    <string name="btn_name_category">Categoria</string>
+    <string name="btn_name_user">Usuário</string>
+</resources>
