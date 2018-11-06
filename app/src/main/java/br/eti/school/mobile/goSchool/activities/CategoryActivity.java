@@ -18,7 +18,6 @@ public class CategoryActivity extends DebugActivity {
 
     protected EditText txtName;
     protected EditText txtDescription;
-
     protected List<Category> categories = new ArrayList<Category>();
     protected List<HashMap<String,String>> dados = new ArrayList<HashMap<String,String>>();
     protected ListView listViewCategory;
@@ -27,7 +26,7 @@ public class CategoryActivity extends DebugActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_category);
+        setContentView(R.layout.activity_login);
     }
 
     public void addCategory(View view) {

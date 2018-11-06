@@ -2,10 +2,6 @@ package br.eti.school.mobile.goSchool.models;
 
 import android.graphics.Bitmap;
 
-/**
- * Created by bruno on 29/08/18.
- */
-
 class Photo {
 
     private Bitmap content;
